@@ -152,9 +152,6 @@ bool load(const char* dictionary)
     
     // close file
     fclose(fp);
-    
-    // return true if successful
-    return true;
 }
 
 /**
